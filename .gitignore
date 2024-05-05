@@ -1,0 +1,13 @@
+.reprozip-trace/
+.vscode/
+.idea/
+build/
+release/
+*.bin
+*.rpz
+*.hnsw
+*.png
+test
+.idea/
+/heaptest.cpp
+testmap.cpp
