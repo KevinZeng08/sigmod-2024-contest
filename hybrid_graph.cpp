@@ -374,7 +374,6 @@ void HybridGraph::BatchSearch(float *base, float *base_by_time, float *base_by_f
         }
     }
 
-//    for (auto &[t, q_ids] : timestamp_query) {
         for(int t=0;t<=9;t++) {
             auto& q_ids = timestamp_query[t];
         auto &searcher = timestamp_searcher[t];
