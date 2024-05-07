@@ -58,6 +58,3 @@ cd ..
 Some source code adapted from [pyglass](https://github.com/zilliztech/pyglass/tree/master)
 
 pyglass is under the MIT-licensed.
-
-# In case
-We will also upload the submission.rpz for the best recall submission. Any reproduction can be done by use reprounzip tool.
